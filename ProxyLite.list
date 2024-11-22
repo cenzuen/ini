@@ -25,6 +25,19 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,nextbuzz.cloud
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,tapad.com
+DOMAIN-SUFFIX,atmtd.com
+DOMAIN-SUFFIX,lkqd.net
+DOMAIN-SUFFIX,atmtd.com
+DOMAIN-SUFFIX,semasio.net
+DOMAIN-SUFFIX,technoratimedia.com
+DOMAIN-SUFFIX,mxptint.net
+DOMAIN-SUFFIX,gammaplatform.com
+DOMAIN-SUFFIX,spotxchange.com
+DOMAIN-SUFFIX,arin.net
+DOMAIN-SUFFIX,amp-endpoint2.com
+
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
