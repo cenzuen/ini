@@ -37,7 +37,9 @@ DOMAIN-SUFFIX,gammaplatform.com
 DOMAIN-SUFFIX,spotxchange.com
 DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,amp-endpoint2.com
-
+DOMAIN-SUFFIX,ttt.sh
+DOMAIN-SUFFIX,qiutx.com
+DOMAIN-SUFFIX,tronlink.org
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
