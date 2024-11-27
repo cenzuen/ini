@@ -42,6 +42,13 @@ DOMAIN-SUFFIX,qiutx.com
 DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,banguomq.com
 DOMAIN-SUFFIX,crwdcntrl.net
+DOMAIN-SUFFIX,omnitagjs.com
+DOMAIN-SUFFIX,spotxchange.com
+DOMAIN-SUFFIX,adform.net
+DOMAIN-SUFFIX,a-mo.net
+DOMAIN-SUFFIX,iqzone.com
+DOMAIN-SUFFIX,skyscanner.net
+DOMAIN-SUFFIX,adnxs.com
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
@@ -62,3 +69,4 @@ IP-CIDR,199.59.148.15/24,no-resolve
 IP-CIDR,199.59.150.43/24,no-resolve
 IP-CIDR,142.251.211.234/16,no-resolve
 IP-CIDR,202.160.128.203/24,no-resolve
+IP-CIDR,104.244.46.57/8,no-resolve
