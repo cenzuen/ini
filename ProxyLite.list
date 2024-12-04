@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,skyscanner.net
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,plista.com
 DOMAIN-SUFFIX,extend.tv
+DOMAIN-SUFFIX,gliacloud.com
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
