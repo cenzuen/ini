@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,nextbuzz.cloud
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,contextweb.com
 DOMAIN-SUFFIX,innity.com
+DOMAIN-SUFFIX,tvboxnow.com
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
