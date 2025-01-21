@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,tiger
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,handsup
 DOMAIN-KEYWORD,lateshow
+DOMAIN-KEYWORD,honey
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
@@ -63,6 +64,7 @@ DOMAIN-SUFFIX,contextweb.com
 DOMAIN-SUFFIX,innity.com
 DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,lateshow.video
+DOMAIN-SUFFIX,joinhoney.com
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
