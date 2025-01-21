@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,lateshow
 DOMAIN-KEYWORD,honey
 DOMAIN-KEYWORD,startdevops
 DOMAIN-KEYWORD,firetvcaptiveportal
+DOMAIN-KEYWORD,dler
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,lateshow.video
 DOMAIN-SUFFIX,joinhoney.com
 DOMAIN-SUFFIX,dler.io
+DOMAIN-SUFFIX,sdwf.life
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
@@ -80,6 +82,7 @@ IP-CIDR,128.242.245.29/16,no-resolve
 IP-CIDR,208.77.47.172/24,no-resolve
 IP-CIDR,108.160.162.109/8,no-resolve
 IP-CIDR,74.86.142.55/8,no-resolve
+IP-CIDR,59.24.3.174/8,no-resolve
 IP-CIDR,108.160.163.116/8,no-resolve
 IP-CIDR,142.250.217.106/16,no-resolve
 IP-CIDR,8.7.198.45/8,no-resolve
