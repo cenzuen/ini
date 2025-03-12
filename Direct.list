@@ -27,7 +27,6 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 苹果中国
 DOMAIN-SUFFIX,apple.com.cn
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
