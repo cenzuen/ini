@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,sdwf.life
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,redircdn.com
+DOMAIN-SUFFIX,specialoffers.jcb
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
