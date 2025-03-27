@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,redircdn.com
 DOMAIN-SUFFIX,specialoffers.jcb
 DOMAIN-SUFFIX,dealam.com
+DOMAIN-SUFFIX,gs2io.com
 
 IP-CIDR,8.8.8.8/8,no-resolve
 IP-CIDR,8.8.4.4/8,no-resolve
